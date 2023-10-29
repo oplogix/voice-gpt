@@ -54,6 +54,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [OpenAI](https://openai.com/) for providing the GPT-3 API.
 - Developers of the `speech_recognition` and `pyttsx3` libraries for their contributions.
+- -Thanks to nickbild for the Idea - https://github.com/nickbild/voice_chatgpt
 
 Happy conversing with Voice-GPT!
 
