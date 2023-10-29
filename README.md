@@ -8,7 +8,7 @@ Voice-GPT is a Python script that allows you to interact with OpenAI's GPT-3 usi
 - [speech_recognition](https://pypi.org/project/SpeechRecognition/) library
 - [pyttsx3](https://pypi.org/project/pyttsx3/) library
 - [OpenAI Python](https://github.com/openai/openai-python) library
-- An OpenAI API key
+- An OpenAI API key - [How to get API Key](https://www.maisieai.com/help/how-to-get-an-openai-api-key-for-chatgpt)
 
 ## Installation
 
