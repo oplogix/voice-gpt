@@ -18,6 +18,7 @@ Voice-GPT is a Python script that allows you to interact with OpenAI's GPT-3 usi
 
   ```sh
   pip install -r requirements.txt
+  ```
 
 
 3. Replace `'replace_with_your_api_key'` in the script with your actual OpenAI API key.
@@ -28,6 +29,7 @@ Voice-GPT is a Python script that allows you to interact with OpenAI's GPT-3 usi
 
   ```sh
   python voice-gpt.py
+  ```
 
 
 2. The script will prompt you to speak something or type 'exit' to quit.
